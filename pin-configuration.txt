@@ -1,0 +1,20 @@
+Describer
+
+tft: VCC, GND, RST                  MOSI:15, SCLK:7, CS:1, DC:16
+joystick: VCC, GND                  VRx:4, VRy:5, SW:6
+4x4 led: VCC, GND                   DIN:18
+4 digit pattern: VCC, GND           CLK:2, DIO:42
+4 digit timer: VCC, GND             CLK:13, DIO:14
+rgb led: VCC                        R:37, G:38
+Buzzer:                             17
+rfid: VCC, GND, RST                 SDA:20, SCK:21, MOSI:47, MISO:45, RST:35
+1 digit(7 seg):                     a:8, b:3, c:46, d:9, e:10, f:11, g:12
+
+Answerer
+
+tft: VCC, GND, RST                  MOSI:6, SCLK:7, CS:4, DC:5, MISO:15, Touch_CS:16
+MCP23017: VCC, GND                  SDA:11, SCL:12
+4 digit timer: VCC, GND             DIO:1, CLK:2
+rgb led: VCC                        R:37, G:38
+Buzzer:                             17
+Motor: VCC(5V), GND                 IN1-4:19,20,21,47
