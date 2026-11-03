@@ -11,6 +11,6 @@
 *After that, 2P motor will be triggered and rfid card key will show up. Tap this card to 1P rfid tag and win the game.*
 *Demo*
 
-https://github.com/user-attachments/assets/218d14e4-d959-4f46-b8d5-2a1922b6771d
+https://github.com/user-attachments/assets/f2b18f92-be52-4de3-94df-3f7aa46961ff
 
 For detailed documentation, read TPJ Project Report.docx
